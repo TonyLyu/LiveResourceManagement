@@ -1,1 +1,1 @@
-# LiveResourceMangement
+# LiveResourceManagement
